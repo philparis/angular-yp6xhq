@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Dans la journée",
+    "price": 25.99
+  },
+  {
+    "type": "d'ici 2 jours",
+    "price": 9.99
+  },
+  {
+    "type": "d'ici 5 jours",
+    "price": 2.99
+  }
+]
